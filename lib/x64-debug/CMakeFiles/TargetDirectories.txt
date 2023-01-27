@@ -1,0 +1,8 @@
+D:/Git/MainTest/lib/x64-debug/CMakeFiles/edit_cache.dir
+D:/Git/MainTest/lib/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/Git/MainTest/lib/x64-debug/MainTest/CMakeFiles/MainTest.dir
+D:/Git/MainTest/lib/x64-debug/MainTest/CMakeFiles/edit_cache.dir
+D:/Git/MainTest/lib/x64-debug/MainTest/CMakeFiles/rebuild_cache.dir
+D:/Git/MainTest/lib/x64-debug/MyDll/CMakeFiles/MyDll.dir
+D:/Git/MainTest/lib/x64-debug/MyDll/CMakeFiles/edit_cache.dir
+D:/Git/MainTest/lib/x64-debug/MyDll/CMakeFiles/rebuild_cache.dir

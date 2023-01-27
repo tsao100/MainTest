@@ -1,0 +1,7 @@
+# ninja log v5
+0	5	0	clean	21a4d0550fd2b6b1
+2	49	6965097602445563	MyDll/CMakeFiles/MyDll.dir/MyDll.cpp.obj	13d49efe3e222c02
+50	221	6965097604025757	../MyDll.dll	3fbdd78c8e13284d
+50	221	6965097604025757	../MyDll.lib	3fbdd78c8e13284d
+0	441	6965097606354688	MainTest/CMakeFiles/MainTest.dir/MainTest.cpp.obj	6765fc9d8332bcdf
+441	623	6965097608045450	../MainTest.exe	a82360595bef9741
